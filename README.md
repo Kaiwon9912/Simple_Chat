@@ -10,9 +10,16 @@ Friendship Management: Accept or reject friend requests and manage your friend l
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-<p>Home Page & Drawer</p>
-  <img src="https://github.com/Kaiwon9912/Simple_Chat/assets/104026145/d06ac1ba-8cfe-465f-bfe8-e8999bf08e9a" width="200" />
-  <img src="https://github.com/Kaiwon9912/Simple_Chat/assets/104026145/12735ab4-1f5a-48d1-b6a0-3f77984978a3" width="200" />
+  <img src="https://github.com/Kaiwon9912/Simple_Chat/assets/104026145/67b58cb5-ecea-4d7f-8a45-36cb7629fbb0" width="200" style="margin-right: 20px;" />
+ &emsp;&emsp;
+  <img src="https://github.com/Kaiwon9912/Simple_Chat/assets/104026145/d06ac1ba-8cfe-465f-bfe8-e8999bf08e9a" width="200" style="margin-right: 20px;" />
+ &emsp;&emsp;
+  <img src="https://github.com/Kaiwon9912/Simple_Chat/assets/104026145/12735ab4-1f5a-48d1-b6a0-3f77984978a3" width="200" style="margin-right: 20px;" />
+  &emsp;&emsp;
+  <img src="https://github.com/Kaiwon9912/Simple_Chat/assets/104026145/2c444e23-585b-4666-ba7e-f0f6439ff0bf" width="200" />
+</p>
+<p align="center">
+  Login  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Home &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;Drawer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Chat
 </p>
 
 
